@@ -3,11 +3,11 @@ import axios from "axios";
 
 const SearchUserCards = () => {
   const [inputValue, setInputValue] = useState("");
-  const [chips, setChips] = useState([]);
   const [items, setItems] = useState([]);
+  const [chips, setChips] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
-  const [highlightedChip, setHighlightedChip] = useState(null);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [highlightedChip, setHighlightedChip] = useState(null);
   const inputRef = useRef(null);
 
   useEffect(() => {
