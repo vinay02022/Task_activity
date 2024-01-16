@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Doe",
+    "age": 26,
+    "city": "Paris",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "name": "Emma Watson",
+    "age": 32,
+    "city": "London",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "name": "Alex Rodriguez",
+    "age": 35,
+    "city": "Barcelona",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "name": "Sophie Turner",
+    "age": 28,
+    "city": "Los Angeles",
+    "image": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "name": "Ravi Patel",
+    "age": 27,
+    "city": "Mumbai",
+    "image": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "name": "Aisha Malik",
+    "age": 23,
+    "city": "Dubai",
+    "image": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "name": "Daniel Kim",
+    "age": 30,
+    "city": "Seoul",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "name": "Isabella Rossi",
+    "age": 27,
+    "city": "Rome",
+    "image": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "name": "Mohammed Ahmed",
+    "age": 32,
+    "city": "Cairo",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "name": "Olivia White",
+    "age": 25,
+    "city": "Sydney",
+    "image": "https://randomuser.me/api/portraits/women/10.jpg"
+  }
+]
